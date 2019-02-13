@@ -9,8 +9,11 @@ Instruction:
 3. When it's the player's turn, the program will ask for input from 1 until 9.
 
 GRID 3 X 3 ILUSTRATION, NUMBER POSITION
+
 |1|2|3|
+
 |4|5|6|
+
 |7|8|9|
 
 Link to the online coding platform:
