@@ -20,5 +20,6 @@ Link to the online coding platform:
 https://repl.it/@shiennyhadi/aitictactoe
 
 references:
--> power point file about AI Game Playing
+-> power point file about AI Game Playing (College presentation file)
+
 -> Youtube Video about Minimax Illustration https://www.youtube.com/watch?v=0SxPMl5AuiM
